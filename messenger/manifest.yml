@@ -1,0 +1,9 @@
+applications:
+- path: target/messenger.war
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: mymessgenger-abhi-02012018
+  host: mymessgenger-abhi-02012018
+  random-route: true
+  disk_quota: 1024M

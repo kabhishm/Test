@@ -1,0 +1,6 @@
+127.0.0.1 - - [02/Jan/2018:13:04:55 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [02/Jan/2018:13:05:28 +0530] "GET /messenger/ HTTP/1.1" 200 239
+127.0.0.1 - - [02/Jan/2018:13:05:36 +0530] "GET /messenger/messages HTTP/1.1" 404 1030
+0:0:0:0:0:0:0:1 - - [02/Jan/2018:13:06:06 +0530] "GET /messenger/webapi/profiles HTTP/1.1" 200 77
+0:0:0:0:0:0:0:1 - - [02/Jan/2018:13:06:27 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 174
+127.0.0.1 - - [02/Jan/2018:13:06:39 +0530] "GET /messenger/webapi/messages HTTP/1.1" 200 178
